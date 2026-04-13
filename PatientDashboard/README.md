@@ -1,7 +1,6 @@
 
-  # Patient Dash
-
-  This is a code bundle for Patient Dash. The original project is available at https://www.figma.com/design/CCu9pyxu2Sg4VWtUCDogxP/Patient-Dash.
+  # Patient Dashboard
+This is a code bundle for the Patient Dashboard. Astronaut Christina Koch is the mock patient for fun but medical information is not accurate. The original project is available at https://www.figma.com/make/CCu9pyxu2Sg4VWtUCDogxP/Patient-Dashboard-FINAL?p=f&t=QmEhdWgrCBzVD4U5-0&fullscreen=1.
 
   ## Running the code
 
